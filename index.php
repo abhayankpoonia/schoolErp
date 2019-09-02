@@ -95,7 +95,7 @@ mysqli_query($c,$sql);
 
 }      
 ?>
-
+i was here@Abhi
 
 
 </body>
